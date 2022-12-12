@@ -9,5 +9,5 @@
 - 📫 How to reach me: .. ![Twitter Follow](https://img.shields.io/twitter/follow/enggsatya?label=Satyendra&style=social) <a href="mailto:satyendra.singh3339@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Satyendra Email" style="width:60px;height:20px;"></a>
 
 
-- ⚡ Fun fact: ... When the moon is directly overhead, you will weigh slightly les
+- ⚡ Fun fact: ... When the moon is directly overhead, you will weigh slightly less
 
